@@ -34,4 +34,4 @@ Por fim, podemos incluir uma reflexão opcional sobre o desafio de criar algo 'n
 ## 💭 Reflexão (Opcional)
 Embora as IAs generativas ofereçam capacidades impressionantes na criação de conteúdos realistas, ainda enfrentamos desafios em garantir a autenticidade e originalidade das produções geradas. O debate sobre a distinção entre "natural" e "fake" continua relevante, destacando a importância de abordagens éticas e responsáveis no desenvolvimento e aplicação dessas tecnologias.
 
-Este projeto é um fork do repositório [link para o repositório original]
+Este projeto é um fork do repositório [link para o repositório original](https://github.com/digitalinnovationone/lab-natty-or-not)
